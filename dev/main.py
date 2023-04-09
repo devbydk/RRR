@@ -1,1 +1,1 @@
-#!/bin/bsh#!/bin/bsh#!/bin/bsh
+def add (9a,b)
